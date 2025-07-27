@@ -4,7 +4,7 @@ A minimal and responsive UI template built using React and Tailwind CSS. Designe
 
 ## Live Demo
 
-[clean-react-ui.vercel.app](https://clean-react-ui.vercel.app)
+[Visit](https://clean-react-ui.vercel.app)
 
 ## Features
 
