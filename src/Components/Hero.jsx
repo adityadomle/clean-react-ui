@@ -15,7 +15,7 @@ const Hero = () => {
           <p className='md:text-5xl sm:text-4xl text-xl font-bold py-4'>
             Fast, flexible financing for{' '}
           </p>
-          <span className='md:text-5xl sm:text-2xl text-xl font-bold text-[#006400] pl-2'>
+          <span className='md:text-5xl sm:text-2xl text-xl font-bold pl-2'>
             <Typewriter
               options={{
                 strings: ['BTB', 'BTC', 'SaaS'],
